@@ -14,20 +14,20 @@ token会失效，可以凭借cookies再次获取
 
 登录后台后，点击新的创作
 
-![image-20220412205528349](/Users/shaonian/Library/Application Support/typora-user-images/image-20220412205528349.png)
+![image-20220412205528349](https://tva1.sinaimg.cn/large/e6c9d24ely1h179p7o7eaj21l50u0adl.jpg)
 
 进入后点击超链接
 
-![image-20220412205647339](/Users/shaonian/Library/Application Support/typora-user-images/image-20220412205647339.png)
+![image-20220412205647339](https://tva1.sinaimg.cn/large/e6c9d24ely1h179pcrulqj21jf0u0q4y.jpg)
 
 选择其他公众号
 
-![image-20220412205713902](/Users/shaonian/Library/Application Support/typora-user-images/image-20220412205713902.png)
+![image-20220412205713902](https://tva1.sinaimg.cn/large/e6c9d24ely1h179pexmb7j20za0n6q4e.jpg)
 
 搜索想要爬取的公众号（先不要点击），打开浏览器f12，network界面
 
-![image-20220412205750023](/Users/shaonian/Library/Application Support/typora-user-images/image-20220412205750023.png)
+![image-20220412205750023](https://tva1.sinaimg.cn/large/e6c9d24ely1h179pia8d5j20to0fyjsd.jpg)
 
-![image-20220412205851182](/Users/shaonian/Library/Application Support/typora-user-images/image-20220412205851182.png)
+![image-20220412205851182](https://tva1.sinaimg.cn/large/e6c9d24ely1h179pkjh31j20ns0s8761.jpg)
 
 点击公众号
