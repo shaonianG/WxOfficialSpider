@@ -32,3 +32,15 @@ token会失效，可以凭借cookies再次获取
 ![image-20220412205851182](https://tva1.sinaimg.cn/large/e6c9d24ely1h179pkjh31j20ns0s8761.jpg)
 
 点击公众号
+
+然后network里面就会出现一个请求，翻到request header这里
+
+![image-20220412210043311](https://tva1.sinaimg.cn/large/e6c9d24ely1h179u6yrz4j20n00g8abe.jpg)
+
+所需要的cookies在这里获取
+
+![image-20220412210116226](https://tva1.sinaimg.cn/large/e6c9d24ely1h179up4n4kj20n80iatbf.jpg)
+
+然后点击payload，token和fakeid在这里获取
+
+![image-20220412210211393](https://tva1.sinaimg.cn/large/e6c9d24ely1h179venci1j20na0higmg.jpg)
